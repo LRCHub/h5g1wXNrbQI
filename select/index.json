@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "StarRingChild",
+  "base_artist": "Aimer",
+  "createdAt": "2026-01-14T05:41:37.374481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "StarRingChild -English ver.-",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": true,
+      "path": "select/01_StarRingChild_-English_ver.-_SawanoHiroyuki[nZk]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "StarRingChild -English ver.-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_StarRingChild_-English_ver.-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "StarRingChild",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_StarRingChild_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "StarRingChild",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_StarRingChild_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "StarRingChild(Movie ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_StarRingChild(Movie_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "StarRingChild (Movie Version)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_StarRingChild_(Movie_Version)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "StarRingChild",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_StarRingChild_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "StarRingChild",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_StarRingChild_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "StarRingChild -English Version- (feat. Aimer)",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": true,
+      "path": "select/09_StarRingChild_-English_Version-_(feat._Aimer)_SawanoHiroyuki[nZk]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "StarRingChild -English Version-",
+      "artist": "SawanoHiroyuki[nZk] feat. Aimer",
+      "has_synced": true,
+      "path": "select/10_StarRingChild_-English_Version-_SawanoHiroyuki[nZk]_feat._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "StarRingChild -Movie ver.-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_StarRingChild_-Movie_ver.-_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "StarRingChild",
+      "artist": "Aimer(エメ)",
+      "has_synced": false,
+      "path": "select/pl_01_StarRingChild_Aimer(エメ).txt"
+    }
+  ]
+}
